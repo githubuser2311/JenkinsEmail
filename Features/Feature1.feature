@@ -10,6 +10,8 @@ Given User launch the application
     Then User verify the title "Login | Salesforce"
     Then User enter into the textbox "username" "sridevi@dayalan.com"
     Then User enter into the textbox "password" "Giveme5$"
+        Then User click on the button "loginButton"
+
   
     
 
